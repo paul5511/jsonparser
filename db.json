@@ -1,0 +1,15 @@
+{
+    "sites": [
+      {
+        "id": 1,
+        "siteName": "Site1"
+      },
+      {
+        "id": 2,
+        "siteName": "Site2"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
