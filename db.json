@@ -7,9 +7,10 @@
       {
         "id": 2,
         "siteName": "Site2"
+      },
+      {
+        "id": 3,
+        "siteName": "Site3"
       }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ]
   }
